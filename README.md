@@ -1,3 +1,5 @@
 # Counter
 HTML CSS JS PROJECT
-LIVE LINK => 
+LIVE LINK => https://counter-21.netlify.app
+
+
